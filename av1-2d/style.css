@@ -1,9 +1,32 @@
+.cabecalho{
+   background-color: #493939;
+   color: 181617;
+   display: flex;
+   justify-content: ;
+   align-items: center;
+   padding: 20px0;
+}
+.cabecalho-imagem{
+  width: 15%;
+  padding-left: 2px;
+  padding-top: 0px;
+}
+.cabecalho-lista-item{
+ text-decoration: none;
+ color: white;
+ display: inline-block;
+ margin: 0;
+
+
+
+
+}
 #banner {
     width: 100%;
 }
 
 .principal{
-    background: #b7979df9;
+    background: #ba9388f9;
     padding: 30px;
 }
 
@@ -29,6 +52,7 @@ em strong {
 
 .itens {
    font-size: italic
+   
 }
 
 .beneficios {
